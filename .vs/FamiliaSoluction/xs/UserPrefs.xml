@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4F4642D0-B98F-43FF-8F3F-BE71544FBD3C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VIEW/Pages/PaiLista.aspx.cs">
+    <Files>
+      <File FileName="VIEW/Pages/PaiLista.aspx" Line="25" Column="139" />
+      <File FileName="VIEW/Pages/PaiLista.aspx.cs" Line="12" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VIEW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
